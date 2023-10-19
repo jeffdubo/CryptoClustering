@@ -1,4 +1,4 @@
-# Crypto Clustering Chellenge
+# Crypto Clustering Challenge
 
 This repository contains the following files:
 1. Resources - Folder with crypto_market_data.csv file with cryptocurrency data.
